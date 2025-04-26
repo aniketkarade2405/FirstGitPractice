@@ -1,3 +1,3 @@
-FirstGitOractice 
-Checking the changes of remote repo in local repo 
+FirstGitPractice 
+Hello
 added screenshot succesfullly
